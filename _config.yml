@@ -20,7 +20,7 @@ title                    : ""
 title_separator          : "-"
 subtitle                 : ""# site tagline that appears below site title in masthead
 name                     : "Jonathan Lee"
-description              : "Data Science, Machine Learning, Process Improvement"
+description              : "Travel around Data Science"
 url                      : "https://scleeza.github.io" # the base hostname & protocol for your site e.g. "https://scleeza.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "scleeza/scleeza.github.io" # GitHub username/repo-name e.g. "scleeza"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jonathan Lee"
   avatar           : "/assets/images/jonathanlee.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Exploring My Data Science Career"
+  bio              : "Traveler|Data Scientist"
   location         : "College Station, Texas"
   email            : "jacaba0815@gmail.com"
   links:

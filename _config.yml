@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Jonathan's Home page"
 title_separator          : "-"
 subtitle                 : ""# site tagline that appears below site title in masthead
 name                     : "Jonathan Lee"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jonathan Lee"
   avatar           : "/assets/images/jonathanlee.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Traveler|Data Scientist"
+  bio              : "Traveler | Data Scientist"
   location         : "College Station, Texas"
   email            : "jacaba0815@gmail.com"
   links:

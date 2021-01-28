@@ -2,6 +2,7 @@
 title: "About"
 permalink: /about/
 ---
+ Hi, this is Jonathan, love to travel, workout, and ...coding.
  3+ years hands-on Semiconductor manufacturing hardware analytics experience, with two master's degrees in Mechanical engineering and Industrial engineering, proven experience in a dynamic environment to conduct quality and process improvement projects through statistical modeling and data analytic techniques. Cross-Functional Project Management to achieve targets of different Key Performance metrics. Utilize Lean Thinking and ad-hoc Python Data Science libraries to provide data insight into all aspect optimization.
 
 1. Programming Languages: SQL, Python, C++/C#, Bash/Linux.

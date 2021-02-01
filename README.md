@@ -2,7 +2,7 @@
 :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 
-#How to run site locally
+# How to run site locally
 > Be alert when installing ruby, there have been several issues reported
 
 1.Install jekyll on your computer [link](https://jekyllrb.com/docs/installation/macos/)

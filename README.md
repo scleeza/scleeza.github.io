@@ -1,7 +1,7 @@
 # scleeza.github.io
 :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
-https://github.com/scleeza/scleeza.github.io
+https://scleeza.github.io
 
 # How to run this site locally
 > Be alert when installing ruby, there have been several issues reported

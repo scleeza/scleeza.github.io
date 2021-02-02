@@ -12,13 +12,13 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan's Home page"
+title                    : "Keep Learning"
 title_separator          : "-"
-subtitle                 : ""# site tagline that appears below site title in masthead
+subtitle                 : "Some notes about Data Science"# site tagline that appears below site title in masthead
 name                     : "Jonathan Lee"
 description              : "Travel around Data Science"
 url                      : "https://scleeza.github.io" # the base hostname & protocol for your site e.g. "https://scleeza.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jonathan Lee"
   avatar           : "/assets/images/jonathanlee.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Traveler | Data Scientist"
+  bio              : "Master in Industrial and System engineering"
   location         : "College Station, Texas"
   email            : "jacaba0815@gmail.com"
   links:
@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/scleeza"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -198,6 +198,13 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 # Sass/SCSS
 sass:
@@ -286,4 +293,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+# _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: True
+      share: true
 

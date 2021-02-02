@@ -11,6 +11,7 @@ header:
  
  I'm currently working in a NGO group as a Data Scientist to help our social researchers gathering data through web scrappers and information extraction from text data.
  
+ ## My Background
  
  
  

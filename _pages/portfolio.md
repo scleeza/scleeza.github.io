@@ -1,10 +1,10 @@
 ---
-title: Projects
+title: Portfolio
 layout: collection
 permalink: /portfolio/
 header:
-  overlay_image: /assets/images/header.jpg
-  caption: "Photo by [Luca Bravo](https://unsplash.com/@lucabravo) on [Unsplash](https://unsplash.com)"
+  overlay_image: /assets/images/white.jpg
+  caption: "Photo by [Sirisvisual](https://unsplash.com/@sirisvisual)"
 collection: portfolio
 entries_layout: grid
 classes: wide

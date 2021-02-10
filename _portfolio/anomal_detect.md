@@ -17,13 +17,13 @@ tags:
 ---
 
 ### Overview
-_Using Phase 1 analysis to detect outliers and build SPC chart_, implemented algo.rithms by Numpy
+_Using Phase 1 analysis to detect outliers and build SPC chart_, implemented algorithms by Numpy
 
    > _Phase 1 analysis means the process of applying SPC chart to a training data, however data has unknown population mean and variance._
 
 ### Procedure
 
--  Applied PCA, reduce dimension of the dataset, avoid curse of dimesionality.
+-  Applied PCA, reduce dimension of the dataset, avoid curse of dimensionality.
 -  Calculated Hotelling T2 test for phase 1 analysis, we use T2 statistics to represent  how data point is located in a multivariate normal distributon (like t-statistics did). 
 -  Plot SPC to locate outliers with alpha = 0.05, so basically upper/lower control limit can be lookup from dist table.
 -  Multi-variate chart like CUSUM or EWMA are also implemented to do outlier detection in case that T2 missed some small shifts.

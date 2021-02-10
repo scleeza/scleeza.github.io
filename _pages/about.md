@@ -10,7 +10,7 @@ header:
  I've two master's degree in Mechanical Engineering and Industrial Engineering respectively. Proven experience in a dynamic environment to conduct production improvement experiments through statistical modeling and data analytic techniques in semiconductor industries.
  Cultivated cross-functional project management to achieve targets in different key performance metrics. Utilize lean thinking and ad-hoc python data science libraries to provide data insight into real business solutions.  
  
- I'm currently working in a NGO group as a Data Scientist to help our social researchers gathering data through web scrappers and information extraction from text data.
+ Currently I'm working in a NGO group as a Data Scientist to help our social researchers gathering data through web scrappers and information extraction from text data.
  
  __Skills:__
 

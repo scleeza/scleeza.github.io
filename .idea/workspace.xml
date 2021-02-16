@@ -20,16 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1ec39d0-512a-49af-8df6-5f4ff0ea2f09" name="Default Changelist" comment="add README.md">
-      <change afterPath="$PROJECT_DIR$/_pages/portfolio.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/anomal_detect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-02-14-Outlier-Detection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/allmodels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/hist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/pca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/tsne.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/aboutheader.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/aboutheader.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/header.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

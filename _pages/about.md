@@ -8,7 +8,7 @@ header:
  Hi, this is Jonathan, welcome to my personal page. I'm currently in career transition from Manufacturing/Operation area to Data Science, this website is the summary of my works.
  
  I've two master's degree in Mechanical Engineering and Industrial Engineering respectively. Proven experience in a dynamic environment to conduct production improvement experiments through statistical modeling and data analytic techniques in semiconductor industries.
- Cultivated cross-functional project management to achieve targets in different key performance metrics. Utilize lean thinking and ad-hoc python data science libraries to provide data insight into real business solutions.  
+ Cultivated cross-functional project management skill to achieve different key performance metrics. Utilized lean thinking and ad-hoc python data science libraries to provide data insight into real business solutions.  
  
  Currently I'm working in a NGO group as a Data Scientist to help our social researchers gathering data through web scrappers and information extraction from text data.
  

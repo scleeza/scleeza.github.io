@@ -6,7 +6,7 @@ header:
 gallery:
   - url: assets/images/xgboost.png
     image_path: assets/images/xgboost.png
-    alt: "PCA"
+    
  
 tags: 
   - Kaggle
